@@ -1,9 +1,0 @@
----
-label: Tag List
-hide_body: true
-fields:
-- type: list
-  name: tags
-  label: tags
-  config:
-    use_select: false
