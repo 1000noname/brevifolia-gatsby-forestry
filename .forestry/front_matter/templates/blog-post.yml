@@ -42,9 +42,9 @@ fields:
   description: Tags
 - name: category
   type: select
-  default: ''
+  default: Walt Whitman
   config:
-    required: false
+    required: true
     options: []
     source:
       type: documents
