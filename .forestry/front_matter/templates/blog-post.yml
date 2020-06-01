@@ -47,10 +47,10 @@ fields:
     required: false
     options: []
     source:
-      type: simple
-      section: 
-      file: 
-      path: 
+      type: documents
+      section: category-list
+      file: content/data/categories.yaml
+      path: categories
   label: Category
   description: Select Category
 pages:
