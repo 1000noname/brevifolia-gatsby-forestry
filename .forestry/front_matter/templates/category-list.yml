@@ -5,3 +5,5 @@ fields:
 - type: list
   name: authors
   label: authors
+  config:
+    use_select: false
