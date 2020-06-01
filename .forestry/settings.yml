@@ -18,6 +18,11 @@ sections:
   path: content/data/authors.yaml
   label: Author List
 - type: document
+  path: content/data/categories.yaml
+  label: Category List
+  match: "**/*"
+  read_only: false
+- type: document
   path: content/data/info.json
   label: Info Page
 - type: heading
